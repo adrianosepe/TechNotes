@@ -2,7 +2,7 @@
 
 ### Generating Android APK splited by architecture processor
 
-> lutter build apk --target-platform android-arm,android-arm64,android-x64 --split-per-abi
+> flutter build apk --target-platform android-arm,android-arm64,android-x64 --split-per-abi
 
 ### Generating Android APK to share with stakeholders
 
